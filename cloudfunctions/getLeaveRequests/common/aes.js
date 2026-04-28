@@ -1,7 +1,7 @@
 // common/aes.js
 const crypto = require('crypto');
 
-const DEFAULT_KEY = 'a9F$3dL!8kPz2xQw'; // 与其它云函数保持一致
+const DEFAULT_KEY = 'a8F3kLm9Pq2XyZ7rT6vWb1C4dE5fGhIj'; // 与其它云函数保持一致
 const ENCRYPTION_KEY = (process.env.ENCRYPTION_KEY || DEFAULT_KEY)
   .padEnd(32, '0')
   .slice(0, 32); // AES-256 需要 32 字节 key

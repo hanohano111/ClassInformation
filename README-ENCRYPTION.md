@@ -98,7 +98,7 @@ const encryptedData = await encryptFields(data, ['studentNo', 'phone']);
 
 javascript
 // config.js
-encryptionKey: 'your-32-byte-test-key-here!!'
+encryptionKey: 'a8F3kLm9Pq2XyZ7rT6vWb1C4dE5fGhIj'
 
 
 ## 📊 加密字段清单

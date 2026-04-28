@@ -4,7 +4,7 @@
  */
 const config = {
   // 加密配置
-  encryptionKey: 'a9F$3dL!8kPz2xQw', // 开发环境测试密钥（生产环境应从后端获取）
+  encryptionKey: 'a8F3kLm9Pq2XyZ7rT6vWb1C4dE5fGhIj', // 开发环境测试密钥（生产环境应从后端获取）
   encryptionEnabled: true, // 是否启用加密
 };
 
